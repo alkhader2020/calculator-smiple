@@ -14,7 +14,10 @@ A modern **3D Calculator** built using **Python + Tkinter**, inspired by real ph
 - Keyboard input support
 
 ## 📸 Preview
-> Add a screenshot here (screenshot.png)
+
+<img width="359" height="639" alt="image" src="https://github.com/user-attachments/assets/29186629-4fe8-42a0-9f30-bc62abe49fac" />
+<img width="359" height="631" alt="image" src="https://github.com/user-attachments/assets/eaf35033-e0b6-4bc6-aba6-fcc2b14f5643" />
+
 
 ## 🚀 Run the project
 ```bash
